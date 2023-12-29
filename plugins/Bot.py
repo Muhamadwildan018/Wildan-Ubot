@@ -74,8 +74,8 @@ def KAZUPIC():
 
 buttons = [
     [
-        Button.url(get_string("bot_3"), "https://github.com/ionmusic/Kazu-Ubot"),
-        Button.url(get_string("bot_4"), "t.me/kazusupportgrp"),
+        Button.url(get_string("bot_3"), "https://github.com/Muhamadwildan018/Wildan-Ubot"),
+        Button.url(get_string("bot_4"), "t.me/wildanubot"),
     ]
 ]
 
