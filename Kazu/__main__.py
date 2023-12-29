@@ -1,4 +1,4 @@
-# Ayra - UserBot
+#Ayra - UserBot
 # Copyright (C) 2021-2022 senpai80
 #
 # This file is a part of < https://github.com/senpai80/Ayra/ >
@@ -65,7 +65,7 @@ def main():
 
     suc_msg = """
             ----------------------------------------------------------------------
-                                      ◈ ᴋᴀᴢᴜ ᴜʙᴏᴛ​ ◈
+                                      ◈ Wildan-Uʙᴏᴛ​ ◈
             ----------------------------------------------------------------------
     """
 
@@ -92,7 +92,7 @@ def main():
         pass
 
     LOGS.info(
-        f"Took {time_formatter((time.time() - start_time)*1000)} to start ◈ ᴋᴀᴢᴜ ᴜʙᴏᴛ​ ◈"
+        f"Took {time_formatter((time.time() - start_time)*1000)} to start ◈ Wildan-Uʙᴏᴛ​ ◈"
     )
     LOGS.info(suc_msg)
 
