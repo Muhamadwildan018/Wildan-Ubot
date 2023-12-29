@@ -7,7 +7,7 @@
         "Pyrogram"
     ],
     "repository": "https://github.com/Muhamadwildan018/Wildan-Ubot",
-    "success_url": "https://t.me/disinikazu",
+    "success_url": "https://t.me/wildanubot",
     "stack": "container",
     "env": {
         "API_ID": {
