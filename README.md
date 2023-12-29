@@ -7,12 +7,12 @@
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon and Pyrogram.</b>
 
-<a href="https://github.com/ionmusic/Kazu-Ubot/commits"> <img src="https://img.shields.io/github/last-commit/ionmusic/Kazu-Ubot?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ionmusic/Kazu-Ubot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://GitHub.com/ionmusic/Kazu-Ubot/graphs/commit-activity)
-[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/ionmusic/Kazu-Ubot/dashboard)
-[![GitHub Forks](https://img.shields.io/github/forks/ionmusic/Kazu-Ubot?&logo=github)](https://github.com/ionmusic/Kazu-Ubot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/ionmusic/Kazu-Ubot?&logo=github)](https://github.com/ionmusic/Kazu-Ubot/stargazers)
+<a href="https://github.com/Muhamadwildan018/Wildan-Ubot/commits"> <img src="https://img.shields.io/github/last-commit/Muhamadwildan018/Wildan-Ubot?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/Muhamadwildan018/Wildan-Ubot)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://GitHub.com/Muahamadwildan/Wildan-Ubot/graphs/commit-activity)
+[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/Muhamadwildan018/Wildan-Ubot/dashboard)
+[![GitHub Forks](https://img.shields.io/github/forks/Muhamadwildan018/Wildan-Ubot?&logo=github)](https://github.com/Muhamadwildan018/Wildan-Ubot/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/Muhamadwildan018/Wildan-Ubot?&logo=github)](https://github.com/Muhamadwildan/Wildan-Ubot/stargazers)
 ----
 
 ## Disclaimer
@@ -65,7 +65,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 </details>
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/ionmusic/Kazu-Ubot"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Muhamadwildan018/Wildan-Ubot"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
 
 </details>
 
