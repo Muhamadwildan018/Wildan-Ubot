@@ -2,7 +2,7 @@
   <img src="https://graph.org//file/d854abd533a783c6642b1.jpg" alt="Kazu Logo">
 </p>
 <h1 align="center">
-  <b>ᴋᴀᴢᴜ ꭙ ᴜʙᴏᴛ​</b>
+  <b>Wildan-Ubot​</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon and Pyrogram.</b>
