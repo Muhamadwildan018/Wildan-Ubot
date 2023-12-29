@@ -1,15 +1,15 @@
-# Kazu - Ubot
+# Wildan-Ubot
 # Copyright (C) 2022-2023 @TeamKazu
 #
-# This file is a part of < https://github.com/ionmusic/Kazu-Ubot >
+# This file is a part of < https://github.com/Muhamadwildan018/Wildan-Ubot >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/ionmusic/Kazu-Ubot/blob/main/LICENSE/>.
+# <https://www.github.com/Muhamadwildan018/Wildan-Ubot/blob/main/LICENSE/>.
 #
-# FROM Kazu-Ubot <https://github.com/ionmusic/Kazu-Ubot >
+# FROM Wildan-Ubot <https://github.com/Muhamadwildan/Wildan-Ubot >
 # t.mekazusupportgrp
 
 # ========================×========================
-#            Jangan Hapus Credit Ngentod
+#                 ★Wildan-Ubot★
 # ========================×========================
 
 import time
@@ -47,9 +47,9 @@ absen = [
 ]
 
 kazucakep = [
-    "**𝙄𝙮𝙖 Kazu 𝙂𝙖𝙣𝙩𝙚𝙣𝙜 𝘽𝙖𝙣𝙜𝙚𝙩** 😍",
+    "**𝙄𝙮𝙖 Wildan 𝙂𝙖𝙣𝙩𝙚𝙣𝙜 𝘽𝙖𝙣𝙜𝙚𝙩** 😍",
     "**𝙂𝙖𝙣𝙩𝙚𝙣𝙜𝙣𝙮𝙖 𝙂𝙖𝙠 𝘼𝙙𝙖 𝙇𝙖𝙬𝙖𝙣** 😚",
-    "**𝙆𝙖𝙢𝙪 𝙂𝙖𝙣𝙩𝙚𝙣𝙜𝙣𝙮𝙖 𝘼𝙠𝙪 𝙆𝙖𝙣 Zu** 😍",
+    "**𝙆𝙖𝙢𝙪 𝙂𝙖𝙣𝙩𝙚𝙣𝙜𝙣𝙮𝙖 𝘼𝙠𝙪 𝙆𝙖𝙣 Wildan** 😍",
     "**𝙄𝙮𝙖𝙖 𝙜𝙖𝙙𝙖 𝙖𝙙𝙖 𝙨𝙖𝙞𝙣𝙜** 😎",
     "**𝙆𝙖𝙢𝙪 𝙅𝙖𝙢𝙚𝙩 𝙏𝙖𝙥𝙞 𝘽𝙤𝙤𝙣𝙜** 😚",
 ]
@@ -66,7 +66,7 @@ async def _(ping):
                      )
 
 # KALO NGEFORK absen ini GA USAH DI HAPUS YA GOBLOK 😡
-# JANGAN DI HAPUS GOBLOK 😡 LU COPY AJA TINGGAL TAMBAHIN
+# JANGAN DI HAPUS GOBLOK 😡 hhhhh COPY AJA TINGGAL TAMBAHIN
 # DI HAPUS GUA GBAN YA 🥴 GUA TANDAIN LU AKUN TELENYA 😡
 
 # Absen by : mrismanaziz <https://github.com/mrismanaziz/man-userbot>
@@ -85,5 +85,5 @@ async def kazu(ganteng):
 
 
 # ========================×========================
-#            Jangan Hapus Credit Ngentod
+#                   Pake aja tod
 # ========================×========================
